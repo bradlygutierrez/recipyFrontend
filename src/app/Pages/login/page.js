@@ -5,7 +5,7 @@ const Login = () => {
         <div className="h-screen w-full bg-gray-100 flex flex-col justify-around items-center">
             <p className=" font-bold text-3xl text-gray-500 flex flex-col w-1/2 text-center"> Hola bienvenido a tu app de recipy, inicia sesión para comenzar a crear tus recetas</p>
             <AuthMenu></AuthMenu>
-            {alert("Hola a todos")}
+            
         </div>
     );
 
